@@ -1,0 +1,47 @@
+.durdur{
+margin-top: 50px;
+}
+
+.image-width{
+    width: 50%;
+}
+.orange-bg{
+    background-color: lightpink;
+}
+.buy-now-button{
+    background-color:red;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+}
+.card-footer{
+    border-top: none;
+    background-color: oldlace;
+}
+.card{
+    border-radius: 10px;
+    border-top: none;
+    border-left: none;
+    box-shadow: 5px 5px 10px lightpink;
+}
+.see-all-button{
+    border: none;
+    background-color: white;
+}
+
+.cat1{
+    margin-top: 50px;
+    margin-left: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    
+}
+.cat2, .cat3{
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#lasth1{
+    text-align: center;
+    text-decoration: underline;
+    color: hotpink;
+}
